@@ -1,4 +1,5 @@
 MNIST Digit Detection
+
 This repository contains a project focused on detecting handwritten digits from the MNIST dataset using multiple machine learning algorithms.
 
 Overview
